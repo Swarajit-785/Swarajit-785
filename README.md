@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Swarajit-785
+- 👀 I’m interested in A.I.
+- 🌱 I’m currently learning machine learning
